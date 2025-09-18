@@ -36,7 +36,6 @@ The project demonstrates **end-to-end machine learning**, from data cleaning and
 - `Polished_Project_Portfolio.ipynb` – Final polished notebook with explanations and results  
 - `requirements_core.txt` – Minimal dependencies needed to run this project  
 - `requirements.txt` – Full Colab environment export (includes many extra packages not directly used)  
-- `results/` – (Optional) Folder for saved metrics, charts, and visualizations  
 
 ## 📦 Dependencies
 - If you just want to run the project normally: install from `requirements_core.txt`  
