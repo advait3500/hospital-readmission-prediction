@@ -25,7 +25,7 @@ The project demonstrates **end-to-end machine learning**, from data cleaning and
 - **ROC-AUC:** ~0.87  
 - **Recall (Sensitivity):** ~79%  
 
-📌 *Note: Replace these placeholder numbers with your actual PyCaret `compare_models()` output once you re-run the notebook.*  
+
 
 ## 🔮 Next Steps
 - Incorporate additional clinical features (e.g., comorbidities, lab test results) to improve prediction accuracy  
